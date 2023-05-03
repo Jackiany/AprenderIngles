@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Inglês</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bichos_blank_fragment">BICHOS</string>
+    <string name="numeros_blank_fragment">NÚMEROS</string>
+    <string name="vogais_blank_fragment">VOGAIS</string>
+
+</resources>
